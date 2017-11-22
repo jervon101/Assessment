@@ -19,7 +19,8 @@
         <activity
             android:name=".RecyclerActivity"
             android:label="@string/title_activity_recycler"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".holder.DisplayActivity"></activity>
     </application>
 
 </manifest>
